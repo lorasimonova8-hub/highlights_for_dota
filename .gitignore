@@ -1,0 +1,20 @@
+venv_cuda/
+__pycache__/
+clips/
+downloads/
+parsed_*/
+5084/
+69/
+7698/
+8938/
+8960882635/
+2254/
+8960762254/
+*.mp4
+*.wav
+*.dem
+*.bz2
+*.pkl
+*.db
+moments_fused.csv
+import sqlite3.py
